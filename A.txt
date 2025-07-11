@@ -1,5 +1,2 @@
 This is First line......
-This is second line-----
-This is third line------
-This line is from Gitbash
-This is line from remote repo.
+
